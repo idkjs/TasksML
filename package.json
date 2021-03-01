@@ -24,17 +24,16 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@glennsl/bs-jest": "^0.4.8",
-    "coveralls": "^3.0.3",
-    "nyc": "^13.3.0",
-    "reason-cli": "^3.3.3-macos-1",
-    "bs-platform": "^4.0.18"
+    "@glennsl/bs-jest": "^0.6.0",
+    "coveralls": "^3.1.0",
+    "nyc": "^15.1.0",
+    "bs-platform": "^9.0.1"
   },
   "peerDependencies": {
     "bs-platform": ">= 4.0.18"
   },
   "dependencies": {
-    "ramda": "^0.26.1"
+    "ramda": "^0.27.1"
   },
   "repository": {
     "type": "git",
